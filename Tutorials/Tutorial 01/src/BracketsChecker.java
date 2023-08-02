@@ -11,7 +11,6 @@ public class BracketsChecker {
         } else {
             System.out.println("Brackets aren't correctly balanced");
         }
-
     }
 
     private static boolean bracketsChecker(String expression){

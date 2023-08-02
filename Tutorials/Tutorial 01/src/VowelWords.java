@@ -31,5 +31,4 @@ public class VowelWords {
             System.out.println(word);
         }
     }
-
 }
